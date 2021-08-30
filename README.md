@@ -1,3 +1,6 @@
+title: Jekyll 301 redirect
+redirect_to: https://www.jatan.space
+
 ## Jatan's Space Blog has moved!
 
 To visit the correct page, please edit the link in your browser to replace "blog" with "www".
