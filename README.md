@@ -1,6 +1,5 @@
-title: Jekyll 301 redirect
+<meta http-equiv="refresh" content="0;URL='https://www.jatan.space'" />
 
-redirect_to: https://www.jatan.space
 
 ## Jatan's Space Blog has moved!
 
