@@ -1,4 +1,5 @@
 title: Jekyll 301 redirect
+
 redirect_to: https://www.jatan.space
 
 ## Jatan's Space Blog has moved!
