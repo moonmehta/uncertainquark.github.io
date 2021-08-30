@@ -1,7 +1,1 @@
 theme: jekyll-theme-cayman
-
-plugins:
-  - jekyll-redirect-from
-  
-gems:
-  - jekyll-redirect-from
